@@ -13,6 +13,9 @@ cd filtring-megatrn
 
 python filtring.py
 
-منتظر اپدیت بعدی باشین
-. 
+
 #love atnam
+. 
+. 
+. 
+منتظر اپدیت بعدی باشین
