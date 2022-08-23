@@ -1,3 +1,559 @@
-#aryan love atnam
-import marshal
-exec(marshal.loads(b'\xe3\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00@\x00\x00\x00sL\x0f\x00\x00d\x00d\x01l\x00Z\x00e\x01\x83\x00\x01\x00e\x00\xa0\x02d\x02\xa1\x01\x01\x00d\x03Z\x03d\x04Z\x04d\x05Z\x05d\x06Z\x06d\x07Z\x07d\x08Z\x08e\x01d\t\x83\x01\x01\x00e\x01e\x05\x9b\x00e\x04\x9b\x00d\ne\x05\x9b\x00\x9d\x04\x83\x01\x01\x00e\x01d\x0b\x83\x01\x01\x00d\x00d\x01l\tZ\te\ne\x03\x9b\x00d\x0ce\x04\x9b\x00d\re\x03\x9b\x00d\x0ee\x04\x9b\x00\x9d\x07\x83\x01Z\x0be\x0bd\x0f\xa0\x0c\xa1\x00k\x02\x90\x01r\te\x01\x83\x00\x01\x00z\x07e\x00\xa0\x02d\x10\xa1\x01\x01\x00W\x00n\x07\x01\x00\x01\x00\x01\x00e\x01\x83\x00\x01\x00Y\x00z\x07e\x00\xa0\x02d\x11\xa1\x01\x01\x00W\x00n\x07\x01\x00\x01\x00\x01\x00e\x01\x83\x00\x01\x00Y\x00z\x06d\x00d\x01l\rZ\rW\x00n\t\x01\x00\x01\x00\x01\x00e\x00\xa0\x02d\x12\xa1\x01\x01\x00Y\x00z\x06d\x00d\x01l\x0eZ\x0eW\x00n\t\x01\x00\x01\x00\x01\x00e\x00\xa0\x02d\x13\xa1\x01\x01\x00Y\x00z\x06d\x00d\x01l\x0fZ\x0fW\x00n\t\x01\x00\x01\x00\x01\x00e\x00\xa0\x02d\x14\xa1\x01\x01\x00Y\x00z\x06d\x00d\x01l\x10Z\x10W\x00n\t\x01\x00\x01\x00\x01\x00e\x00\xa0\x02d\x15\xa1\x01\x01\x00Y\x00z\x06d\x00d\x01l\x11Z\x11W\x00n\t\x01\x00\x01\x00\x01\x00e\x00\xa0\x02d\x16\xa1\x01\x01\x00Y\x00z\x04e\x12\x01\x00W\x00n\t\x01\x00\x01\x00\x01\x00e\x00\xa0\x02d\x17\xa1\x01\x01\x00Y\x00z\x06d\x00d\x01l\x13Z\x13W\x00n\t\x01\x00\x01\x00\x01\x00e\x00\xa0\x02d\x18\xa1\x01\x01\x00Y\x00e\x01\x83\x00\x01\x00z\x07e\x00\xa0\x02d\x19\xa1\x01\x01\x00W\x00n\x07\x01\x00\x01\x00\x01\x00e\x01\x83\x00\x01\x00Y\x00e\x01d\x1a\x83\x01\x01\x00d\x00d\x1bl\rm\x14Z\x14\x01\x00e\t\xa0\x15d\x1c\xa1\x01\x01\x00e\x01e\x14j\x16d\x1d\x17\x00e\x14j\x17\x17\x00d\x1e\x17\x00\x83\x01\x01\x00e\x01\x83\x00\x01\x00e\t\xa0\x15d\x1c\xa1\x01\x01\x00e\x01\x83\x00\x01\x00e\x01\x83\x00\x01\x00e\x0bd\x1f\xa0\x0c\xa1\x00k\x02\x90\x01r\x19e\x01\x83\x00\x01\x00e\x01\x83\x00\x01\x00e\t\xa0\x15d\x1c\xa1\x01\x01\x00d\x00d\x01l\x11Z\x11d\x00d\x01l\x18Z\x18d\x00d\x01l\x0eZ\x0ed\x00d\x01l\rZ\rd\x00d\x01l\x12Z\x12d\x00d\x01l\x19Z\x19d\x00d\x01l\x0fZ\x0fd\x00d\x01l\x13Z\x13d\x00d\x01l\x1aZ\x1ad\x00d\x01l\x10Z\x10d\x00d l\x0em\x1bZ\x1bm\x1cZ\x1cm\x1dZ\x1d\x01\x00d\x00d!l\rm\x14Z\x14m\x1eZ\x1em\x1fZ\x1f\x01\x00e\x01\x83\x00\x01\x00e\x01\x83\x00\x01\x00z\x0be\x00\xa0\x02d\x02\xa1\x01e\x01d"\x83\x01f\x02\x01\x00W\x00n\r\x01\x00\x01\x00\x01\x00e\x00\xa0\x02d#\xa1\x01e\x01d$\x83\x01f\x02\x01\x00Y\x00e\x01d%\x83\x01\x01\x00e\t\xa0\x15d\x1c\xa1\x01\x01\x00e\x00\xa0\x02d\x02\xa1\x01\x01\x00e\x01d&\x83\x01\x01\x00e\x01e\x03\x9b\x00\x83\x01\x01\x00e\x01e\x14j\x17d\'\x17\x00\x83\x01\x01\x00e\x01e\x05\x9b\x00d(\x9d\x02e\x14j\x17\x17\x00d)\x17\x00\x83\x01\x01\x00e\x01\x83\x00\x01\x00e\x03\x9b\x00e e\x12j\x12\xa0!\xa1\x00\x83\x01\x17\x00Z"e\x01d\x0b\x83\x01\x01\x00e\x01e\x14j#d\'\x17\x00\x83\x01\x01\x00g\x00d*\xa2\x01Z$e\x19\xa0%e$\xa1\x01Z&e&D\x00]\x13Z\'e\x18j(\xa0)e\'\xa1\x01\x01\x00e\x18j(\xa0*\xa1\x00\x01\x00e\t\xa0\x15d+\xa1\x01\x01\x00\x90\x01q\xc9e\x01e\x14j\x16d\'\x17\x00\x83\x01\x01\x00e\t\xa0\x15d\x1c\xa1\x01\x01\x00e\x01d,\x83\x01\x01\x00e\x01\x83\x00\x01\x00e\x01\x83\x00\x01\x00e\ne\x05\x9b\x00d-e\x07\x9b\x00d.e\x05\x9b\x00d/e\x03\x9b\x00\x9d\x07\x83\x01Z+e\t\xa0\x15d0\xa1\x01\x01\x00e\x01\x83\x00\x01\x00e\x01e\x14j,d\'\x17\x00\x83\x01\x01\x00e\x10\xa0-e+\x9b\x00\xa1\x01Z.d1e\x05\x9b\x00e.\x9b\x00d2e\x07\x9b\x00d3\x9d\x06Z/e/D\x00]\x13Z0e\x18j(\xa0)e0\xa1\x01\x01\x00e\x18j(\xa0*\xa1\x00\x01\x00e\t\xa0\x15d4\xa1\x01\x01\x00\x90\x02q$e\x01\x83\x00\x01\x00e\t\xa0\x15d\x1c\xa1\x01\x01\x00e\x01d5\x83\x01\x01\x00e\x01\x83\x00\x01\x00e\x01d\'\x83\x01\x01\x00e\x01e\x14j#d\'\x17\x00\x83\x01\x01\x00e\x01\x83\x00\x01\x00e\x01\x83\x00\x01\x00e\t\xa0\x15d\x1c\xa1\x01\x01\x00e\x01\x83\x00\x01\x00e\x01\x83\x00\x01\x00e\t\xa0\x15d\x1c\xa1\x01\x01\x00e\x01e\x14j\x16d\'\x17\x00\x83\x01\x01\x00e\nd6e\x03\x9b\x00d7e\x04\x9b\x00d8e+\x9b\x00d9e\x07\x9b\x00d:e\x08\x9b\x00d;e\x04\x9b\x00d<e\x08\x9b\x00d=e\x06\x9b\x00\x9d\x10\x83\x01Z1e\x01\x83\x00\x01\x00e\t\xa0\x15d>\xa1\x01\x01\x00e\x01e\x14j#d?\x17\x00\x83\x01\x01\x00e\t\xa0\x15d>\xa1\x01\x01\x00e\x01\x83\x00\x01\x00e\x01\x83\x00\x01\x00e\x01e\x14j\x16d\'\x17\x00\x83\x01\x01\x00e\x01\x83\x00\x01\x00e\t\xa0\x15d\x1c\xa1\x01\x01\x00e\x01e\x05\x9b\x00d6\x9d\x02\x83\x01\x01\x00e\nd@e\x05\x9b\x00dAe\x03\x9b\x00e+\x9b\x00e\x05\x9b\x00dBe\x04\x9b\x00d8e1\x9b\x00dCe\x04\x9b\x00\x9d\x0c\x83\x01Z2e\x01\x83\x00\x01\x00e\x01e\x14j,d\'\x17\x00\x83\x01\x01\x00e\t\xa0\x15d\x1c\xa1\x01\x01\x00e\x01dDe\x04\x9b\x00dEe\x07\x9b\x00dF\x9d\x05d\'dGdH\x8d\x03\x01\x00e\t\xa0\x15dI\xa1\x01\x01\x00e\x01dJd\'dGdH\x8d\x03\x01\x00e\x01\x83\x00\x01\x00e\x01\x83\x00\x01\x00e\x01e\x14j#d\'\x17\x00\x83\x01\x01\x00e\x01dKd\'dGdH\x8d\x03\x01\x00e\t\xa0\x15d>\xa1\x01\x01\x00e\x01dLd\'dGdH\x8d\x03\x01\x00e\t\xa0\x15d>\xa1\x01\x01\x00e\x01dMd\'dGdH\x8d\x03\x01\x00e\t\xa0\x15d>\xa1\x01\x01\x00e\x01dNd\'dGdH\x8d\x03\x01\x00e\t\xa0\x15d>\xa1\x01\x01\x00e\x01dOd\'dGdH\x8d\x03\x01\x00e\t\xa0\x15d\x1c\xa1\x01\x01\x00e\x01\x83\x00\x01\x00e\x01\x83\x00\x01\x00e\x00\xa0\x02d\x02\xa1\x01\x01\x00e\t\xa0\x15d>\xa1\x01\x01\x00e\x01\x83\x00\x01\x00e\x01\x83\x00\x01\x00e\x01e\x04\x9b\x00d6\x9d\x02\x83\x01\x01\x00e\x19\xa03d>dP\xa1\x02Z4e\x19\xa03d>dP\xa1\x02Z5e\x19\xa03d>dP\xa1\x02Z6e\x19\xa03d>dP\xa1\x02Z7e\x19\xa03d>dP\xa1\x02Z8e\x19\xa03d>dP\xa1\x02Z9e\x19\xa03d>dP\xa1\x02Z:e\x19\xa03d>dP\xa1\x02Z;e\x19\xa03d>dP\xa1\x02Z<e\x19\xa03d>dP\xa1\x02Z=e\x19\xa03d>dP\xa1\x02Z=e\x19\xa03d>dP\xa1\x02Z>e\x19\xa03d>dP\xa1\x02Z?e\x19\xa03d>dP\xa1\x02Z@e\x19\xa03d>dP\xa1\x02ZAe\x19\xa03d>dP\xa1\x02ZBe\x19\xa03d>dP\xa1\x02ZCe\x19\xa03d>dP\xa1\x02ZDe\x19\xa03d>dP\xa1\x02ZEe\x19\xa03d>dP\xa1\x02ZFe\x19\xa03d>dP\xa1\x02ZGe\x19\xa03d>dP\xa1\x02ZHe\x19\xa03d>dP\xa1\x02ZIe\x19\xa03d>dP\xa1\x02ZJe\x19\xa03d>dP\xa1\x02ZKe\x19\xa03d>dP\xa1\x02ZLe e5\x83\x01ZMe e4\x83\x01ZNe e7\x83\x01ZOe e8\x83\x01ZPe e9\x83\x01ZQe e:\x83\x01ZRe e;\x83\x01ZSe e<\x83\x01ZTe e=\x83\x01ZUe e>\x83\x01ZVe e?\x83\x01ZWe e@\x83\x01ZXe eA\x83\x01ZYe eB\x83\x01ZZe eC\x83\x01Z[e eD\x83\x01Z\\e eE\x83\x01Z]e eF\x83\x01Z^e eG\x83\x01Z_e eH\x83\x01Z`e eI\x83\x01Zae eJ\x83\x01Zbe eK\x83\x01Zce eL\x83\x01Zdg\x00dQ\xa2\x01Zeg\x00dR\xa2\x01ZfdSZge\x19\xa0%ee\xa1\x01Zhe\x19\xa0%ef\xa1\x01Zie\x19\xa0%eg\xa1\x01ZjdTdUg\x02Zke\x19\xa0%ek\xa1\x01Zlg\x00dV\xa2\x01Zmg\x00dV\xa2\x01Zng\x00dV\xa2\x01Zog\x00dW\xa2\x01Zpg\x00dX\xa2\x01Zqe\x19\xa0%em\xa1\x01Zre\x19\xa0%em\xa1\x01Zse\x19\xa0%em\xa1\x01Zte\x19\xa0%em\xa1\x01Zue\x19\xa0%eo\xa1\x01Zve\x19\xa0%en\xa1\x01Zwe\x19\xa0%eq\xa1\x01Zxe\x19\xa0%ep\xa1\x01Zye\x01e\x14j,d\'\x17\x00\x83\x01\x01\x00dYZze\x14j\x17dZe+\x9b\x00d[\x9d\x03\x17\x00Z{e\x05\x9b\x00d\\\x9d\x02Z|e\x14j\x17d]\x17\x00Z}e\x05\x9b\x00d^\x9d\x02Z~e\x05\x9b\x00d_\x9d\x02Z\x7fd`e1\x9b\x00da\x9d\x03Z\x80e\x01e\x14j,d\'\x17\x00\x83\x01\x01\x00e2dbk\x02\x90\x05r\x8be\x01dce"\x9b\x00dde\x80\x9b\x00dee\x7f\x9b\x00dfe+\x9b\x00dge1\x9b\x00dh\x9d\x0bd\'\xa0\x81g\x00di\x91\x01eM\x9b\x00\x91\x01dj\x91\x01eN\x9b\x00\x91\x01dj\x91\x01eO\x9b\x00\x91\x01dj\x91\x01eP\x9b\x00\x91\x01eh\x9b\x00\x91\x01eQ\x9b\x00\x91\x01dj\x91\x01eR\x9b\x00\x91\x01dj\x91\x01eS\x9b\x00\x91\x01dj\x91\x01eT\x9b\x00\x91\x01dj\x91\x01eU\x9b\x00\x91\x01dj\x91\x01eV\x9b\x00\x91\x01dj\x91\x01eW\x9b\x00\x91\x01dj\x91\x01eX\x9b\x00\x91\x01dj\x91\x01eY\x9b\x00\x91\x01dj\x91\x01eZ\x9b\x00\x91\x01dj\x91\x01e[\x9b\x00\x91\x01dj\x91\x01e\\\x9b\x00\x91\x01dj\x91\x01e]\x9b\x00\x91\x01dj\x91\x01e^\x9b\x00\x91\x01dj\x91\x01e_\x9b\x00\x91\x01dj\x91\x01e`\x9b\x00\x91\x01dk\x91\x01\xa1\x01e\x1bdl\x83\x01e\x1cdm\x83\x01e\x1ddn\x83\x01f\x03\x16\x00\x17\x00\x83\x01\x01\x00e\x01d\'\x83\x01\x01\x00e\x01d\'\x83\x01\x01\x00e\x01e{\x9b\x00\x83\x01\x01\x00e2dok\x02\x90\x06r(e\x01dce"\x9b\x00dde\x80\x9b\x00dpe\x7f\x9b\x00dfe+\x9b\x00dge1\x9b\x00dq\x9d\x0bd\'\xa0\x81g\x00di\x91\x01eM\x9b\x00\x91\x01dj\x91\x01eN\x9b\x00\x91\x01dj\x91\x01eO\x9b\x00\x91\x01dj\x91\x01eP\x9b\x00\x91\x01eh\x9b\x00\x91\x01eQ\x9b\x00\x91\x01dj\x91\x01eR\x9b\x00\x91\x01dj\x91\x01eS\x9b\x00\x91\x01dj\x91\x01eT\x9b\x00\x91\x01dj\x91\x01eU\x9b\x00\x91\x01dj\x91\x01eV\x9b\x00\x91\x01dj\x91\x01eW\x9b\x00\x91\x01dj\x91\x01eX\x9b\x00\x91\x01dj\x91\x01eY\x9b\x00\x91\x01dj\x91\x01eZ\x9b\x00\x91\x01dj\x91\x01e[\x9b\x00\x91\x01dj\x91\x01e\\\x9b\x00\x91\x01dj\x91\x01e]\x9b\x00\x91\x01dj\x91\x01e^\x9b\x00\x91\x01dj\x91\x01e_\x9b\x00\x91\x01dj\x91\x01e`\x9b\x00\x91\x01dr\x91\x01\xa1\x01e\x1bdl\x83\x01e\x1cds\x83\x01e\x1ddn\x83\x01f\x03\x16\x00\x17\x00\x83\x01\x01\x00e\x01d\'\x83\x01\x01\x00e\x01d\'\x83\x01\x01\x00e\x01e{\x9b\x00\x83\x01\x01\x00e2dtk\x02\x90\x06r\xd9e\x01dce"\x9b\x00due\x80\x9b\x00dve\x7f\x9b\x00dfe+\x9b\x00dge1\x9b\x00dw\x9d\x0bd\'\xa0\x81g\x00di\x91\x01eM\x9b\x00\x91\x01dj\x91\x01eN\x9b\x00\x91\x01dj\x91\x01eO\x9b\x00\x91\x01dj\x91\x01eP\x9b\x00\x91\x01ei\x9b\x00\x91\x01eQ\x9b\x00\x91\x01dj\x91\x01eR\x9b\x00\x91\x01dj\x91\x01eS\x9b\x00\x91\x01dj\x91\x01eT\x9b\x00\x91\x01dj\x91\x01eU\x9b\x00\x91\x01dj\x91\x01eV\x9b\x00\x91\x01dj\x91\x01eW\x9b\x00\x91\x01dj\x91\x01eX\x9b\x00\x91\x01dj\x91\x01eY\x9b\x00\x91\x01dj\x91\x01eZ\x9b\x00\x91\x01dj\x91\x01e[\x9b\x00\x91\x01dj\x91\x01e\\\x9b\x00\x91\x01dj\x91\x01e]\x9b\x00\x91\x01dj\x91\x01e^\x9b\x00\x91\x01dj\x91\x01e_\x9b\x00\x91\x01dj\x91\x01e`\x9b\x00\x91\x01dj\x91\x01ea\x9b\x00\x91\x01dj\x91\x01eb\x9b\x00\x91\x01dj\x91\x01ec\x9b\x00\x91\x01dj\x91\x01ed\x9b\x00\x91\x01dx\x91\x01\xa1\x01e\x1bdl\x83\x01e\x1cdy\x83\x01e\x1ddn\x83\x01f\x03\x16\x00\x17\x00\x83\x01\x01\x00e\x01d\'\x83\x01\x01\x00e\x01d\'\x83\x01\x01\x00e\x01e{\x9b\x00\x83\x01\x01\x00e2dzk\x02\x90\x07rve\x01dce"\x9b\x00due\x80\x9b\x00dpe\x7f\x9b\x00dfe+\x9b\x00dge1\x9b\x00d{\x9d\x0bd\'\xa0\x81g\x00di\x91\x01eM\x9b\x00\x91\x01dj\x91\x01eN\x9b\x00\x91\x01dj\x91\x01eO\x9b\x00\x91\x01dj\x91\x01eP\x9b\x00\x91\x01eh\x9b\x00\x91\x01eQ\x9b\x00\x91\x01dj\x91\x01eR\x9b\x00\x91\x01dj\x91\x01eS\x9b\x00\x91\x01dj\x91\x01eT\x9b\x00\x91\x01dj\x91\x01eU\x9b\x00\x91\x01dj\x91\x01eV\x9b\x00\x91\x01dj\x91\x01eW\x9b\x00\x91\x01dj\x91\x01eX\x9b\x00\x91\x01dj\x91\x01eY\x9b\x00\x91\x01dj\x91\x01eZ\x9b\x00\x91\x01dj\x91\x01e[\x9b\x00\x91\x01dj\x91\x01e\\\x9b\x00\x91\x01dj\x91\x01e]\x9b\x00\x91\x01dj\x91\x01e^\x9b\x00\x91\x01dj\x91\x01e_\x9b\x00\x91\x01dj\x91\x01e`\x9b\x00\x91\x01dk\x91\x01\xa1\x01e\x1bdl\x83\x01e\x1cdy\x83\x01e\x1ddn\x83\x01f\x03\x16\x00\x17\x00\x83\x01\x01\x00e\x01d\'\x83\x01\x01\x00e\x01d\'\x83\x01\x01\x00e\x01e{\x9b\x00\x83\x01\x01\x00e\x01\x83\x00\x01\x00e\x01\x83\x00\x01\x00e\x01e\x03\x9b\x00\x83\x01\x01\x00e\x01d\'\x83\x01\x01\x00g\x00d|\xa2\x01Z\x82e\x19\xa0%e\x82\xa1\x01Z\x83e\x01e\x83\x83\x01\x01\x00e\x01e\x05\x9b\x00d6\x9d\x02\x83\x01\x01\x00e\x01\x83\x00\x01\x00e\t\xa0\x15d>\xa1\x01\x01\x00e\x01\x83\x00\x01\x00d\x01S\x00)}\xe9\x00\x00\x00\x00N\xda\x05clearz\x05\x1b[32mz\x05\x1b[31mz\x05\x1b[36mz\x05\x1b[35mz\x05\x1b[93mz\x05\x1b[34mzP\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nz\xdc\n __  __ _____ ____    _  _____ ____  _   _\n|  \\/  | ____/ ___|  / \\|_   _|  _ \\| \\ | |\n| |\\/| |  _|| |  _  / _ \\ | | | |_) |  \\| |\n| |  | | |__| |_| |/ ___ \\| | |  _ <| |\\  |\n|_|  |_|_____\\____/_/   \\_\\_| |_| \\_\\_| \\_|\nz\x03\n\n\nz\x15library installation z\x05(y/n)z\x05 >>? \xda\x01yz\rapt update -yz\x0eapt upgrade -yz\x14pip install coloramaz\x14pip3 install coloredz\x14pip install requestsz\x14pip install pyfigletz\x16pip install webbrowserz\x14pip install datetimez\x11pip install flagsz\x0fpkg install soxz\x02\n\n)\x01\xda\x04Foreg\x00\x00\x00\x00\x00\x00\xe0?z\x05tip: u#\x00\x00\x00i\xc5\x8b\xc5\xa1\xc5\xa3\xc4\x83\xc5\x82\xc5\x82\xc4\x95\xc4\x91 \xc5\x82\xc4\xadb\xc5\x99\xc4\x83\xc5\x99\xc5\xb7\xc5\x9d ~\xda\x01n)\x03\xda\x02fg\xda\x02bg\xda\x04attr)\x03r\x04\x00\x00\x00\xda\x04Back\xda\x05Stylez\x0blinux start\xda\x03clsz\tcmd startz\x1e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nz<\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\xda\x00z\x03[~]u\'\x00\x00\x00 \xc5\xa1tart code f\xc3\xac\xc5\x82\xc5\xa7\xc3\xaa\xc5\x99 megatrn script)\x10u\x87\x04\x00\x00 \x1b[32m\n                      {m}\n                     uuuuu\n                uu$$$$$$$$$$$uu\n             uu$$$$$$$$$$$$$$$$$uu\n            u$$$$$$$$$$$$$$$$$$$$$u\n           u$$$$$$$$$$$$$$$$$$$$$$$u\n          u$$$$$$$$$$$$$$$$$$$$$$$$$u\n          u$$$$$$$$$$$$$$$$$$$$$$$$$u\n          u$$$$$$\xe2\x80\x9c   \xe2\x80\x9c$$$\xe2\x80\x9c   \xe2\x80\x9c$$$$$$u\n          \xe2\x80\x9c$$$$\xe2\x80\x9c      u$u       $$$$\xe2\x80\x9c\n           $$$u       u$u       u$$$\n           $$$u      u$$$u      u$$$\n            \xe2\x80\x9c$$$$uu$$$   $$$uu$$$$\xe2\x80\x9c\n             \xe2\x80\x9c$$$$$$$\xe2\x80\x9c   \xe2\x80\x9c$$$$$$$\xe2\x80\x9c\n               u$$$$$$$u$$$$$$$u\n                u$\xe2\x80\x9c$\xe2\x80\x9c$\xe2\x80\x9c$\xe2\x80\x9c$\xe2\x80\x9c$\xe2\x80\x9c$u\n     uuu        $$u$ $ $ $ $u$$       uuu\n    u$$$$        $$$$$u$u$u$$$       u$$$$\n     $$$$$uu      \xe2\x80\x9c$$$$$$$$$\xe2\x80\x9c     uu$$$$$$\n   u$$$$$$$$$$$uu    \xe2\x80\x9c\xe2\x80\x9c\xe2\x80\x9c\xe2\x80\x9c\xe2\x80\x9c    uuuu$$$$$$$$$$\n   $$$$\xe2\x80\x9c\xe2\x80\x9c\xe2\x80\x9c$$$$$$$$$$uuu   uu$$$$$$$$$\xe2\x80\x9c\xe2\x80\x9c\xe2\x80\x9c$$$\xe2\x80\x9c\n    \xe2\x80\x9c\xe2\x80\x9c\xe2\x80\x9c      \xe2\x80\x9c\xe2\x80\x9c$$$$$$$$$$$uu \xe2\x80\x9c\xe2\x80\x9c$\xe2\x80\x9c\xe2\x80\x9c\xe2\x80\x9c\n              uuuu \xe2\x80\x9c\xe2\x80\x9c$$$$$$$$$$uuu\n     u$$$uuu$$$$$$$$$uu \xe2\x80\x9c\xe2\x80\x9c$$$$$$$$$$$uuu$$$\n     $$$$$$$$$$\xe2\x80\x9c\xe2\x80\x9c\xe2\x80\x9c\xe2\x80\x9c           \xe2\x80\x9c\xe2\x80\x9c$$$$$$$$$$$\xe2\x80\x9c\n      \xe2\x80\x9c$$$$$\xe2\x80\x9c                      \xe2\x80\x9c\xe2\x80\x9c$$$$\xe2\x80\x9c\xe2\x80\x9c\n        $$$\xe2\x80\x9c                         $$$$\xe2\x80\x9c\n        a<\x02\x00\x00\n____________6____________\n__________66666__________\n_________6666666_________\n_________6666666_________\n__________66666__________\n___6_______666_______6___\n__666______666______666__\n_66666666666666666666666_\n_66666666666666666666666_\n_66666666666666666666666_\n__666______666______666__\n___6_______666_______6___\n___________666___________\n___________666___________\n___________666___________\n___________666___________\n___________666___________\n___________666___________\n__________66666__________\n_________6666666_________\n__________66666__________\n___________666___________z\x85\n_____ ___ _   _____ ____\n|  ___|_ _| | |_   _|  _ | |_   | || |   | | | |_) |\n|  _|  | || |___| | |  _ <\n|_|   |___|_____|_| |_| \\_\nao\x02\x00\x00\n:::::::::  :::::::::: :::::::::   ::::::::  ::::::::: ::::::::::: :::::::::: :::::::::  \n:+:    :+: :+:        :+:    :+: :+:    :+: :+:    :+:    :+:     :+:        :+:    :+: \n+:+    +:+ +:+        +:+    +:+ +:+    +:+ +:+    +:+    +:+     +:+        +:+    +:+ \n+#++:++#:  +#++:++#   +#++:++#+  +#+    +:+ +#++:++#:     +#+     +#++:++#   +#++:++#:  \n+#+    +#+ +#+        +#+        +#+    +#+ +#+    +#+    +#+     +#+        +#+    +#+ \n#+#    #+# #+#        #+#        #+#    #+# #+#    #+#    #+#     #+#        #+#    #+# \n###    ### ########## ###         ########  ###    ###    ###     ########## ###    ###\na\xdd\x01\x00\x00\n                                             d8                    \n888-~\\  e88~~8e  888-~88e   e88~-_  888-~\\ _d88__  e88~~8e  888-~\\ \n888    d888  88b 888  888b d888   i 888     888   d888  88b 888    \n888    8888__888 888  8888 8888   | 888     888   8888__888 888    \n888    Y888    , 888  888P Y888   \' 888     888   Y888    , 888    \n888     "88___/  888-_88"   "88_-~  888     "88_/  "88___/  888    \n                 888                                               \naF\x02\x00\x00\n ______      _____   _____      ____     ______     ________    _____   ______    \n(   __ \\    / ___/  (  __ \\    / __ \\   (   __ \\   (___  ___)  / ___/  (   __ \\   \n ) (__) )  ( (__     ) )_) )  / /  \\ \\   ) (__) )      ) )    ( (__     ) (__) )  \n(    __/    ) __)   (  ___/  ( ()  () ) (    __/      ( (      ) __)   (    __/   \n ) \\ \\  _  ( (       ) )     ( ()  () )  ) \\ \\  _      ) )    ( (       ) \\ \\  _  \n( ( \\ \\_))  \\ \\___  ( (       \\ \\__/ /  ( ( \\ \\_))    ( (      \\ \\___  ( ( \\ \\_)) \n )_) \\__/    \\____\\ /__\\       \\____/    )_) \\__/     /__\\      \\____\\  )_) \\__/  \na{\x01\x00\x00\n                                                     \n ###### # #      ##### ###### #####  # #    #  ####  \n #      # #        #   #      #    # # ##   # #    # \n #####  # #        #   #####  #    # # # #  # #      \n #      # #        #   #      #####  # #  # # #  ### \n #      # #        #   #      #   #  # #   ## #    # \n #      # ######   #   ###### #    # # #    #  ####  \na\x83\x02\x00\x00\n ________ ___  ___   _________  _______   ________  ___  ________   ________     \n|\\  _____\\  \\|\\  \\ |\\___   ___\\  ___ \\ |\\   __  \\|\\  \\|\\   ___  \\|\\   ____\\    \n\\ \\  \\__/\\ \\  \\ \\  \\|___ \\  \\_\\ \\   __/|\\ \\  \\|\\  \\ \\  \\ \\  \\ \\  \\ \\  \\___|    \n \\ \\   __\\ \\  \\ \\  \\    \\ \\  \\ \\ \\  \\_|/_\\ \\   _  _\\ \\  \\ \\  \\ \\  \\ \\  \\  ___  \n  \\ \\  \\_| \\ \\  \\ \\  \\____\\ \\  \\ \\ \\  \\_|\\ \\ \\  \\  \\ \\  \\ \\  \\ \\  \\ \\  \\|\\  \\ \n   \\ \\__\\   \\ \\__\\ \\_______\\ \\__\\ \\ \\_______\\ \\__\\ _\\ \\__\\ \\__\\ \\__\\ \\_______    \\|__|    \\|__|\\|_______|\\|__|  \\|_______|\\|__|\\|__|\\|__|\\|__| \\|__|\\|_______|\n                                                                                 \nz\xe9\n888888  88 88     888888 888888 8888Yb 88 88b 88  dP88b8 \n88__    88 88       88   88__   88__dP 88 88Yb88 dP   `8 \n8888    88 88  .o   88   8888   888Yb  88 88 Y88 Yb  888 \n88      88 88ood8   88   888888 88  Yb 88 88  Y8  YboodP \na\xf1\x01\x00\x00\n                                          **                 \n                ******                   /**                 \n ******  ***** /**///**  ******  ****** ******  *****  ******\n//**//* **///**/**  /** **////**//**//*///**/  **///**//**//*\n /** / /*******/****** /**   /** /** /   /**  /******* /** / \n /**   /**//// /**///  /**   /** /**     /**  /**////  /**   \n/***   //******/**     //****** /***     //** //******/***   \n///     ////// //       //////  ///       //   ////// ///    \na(\x01\x00\x00\n_____________ ________ ______ __________  /______ ________\n__  ___/_  _ \\___  __ \\_  __ \\__  ___/_  __/_  _ \\__  ___/\n_  /    /  __/__  /_/ // /_/ /_  /    / /_  /  __/_  /    \n/_/     \\___/ _  .___/ \\____/ /_/     \\__/  \\___/ /_/     \n              /_/                                         \nz\xf7\n                           _            \n _ __ ___ _ __   ___  _ __| |_ ___ _ __ \n| \'__/ _ \\ \'_ \\ / _ \\| \'__| __/ _ \\ \'__|\n| | |  __/ |_) | (_) | |  | ||  __/ |   \n|_|  \\___| .__/ \\___/|_|   \\__\\___|_|   \n         |_|                            \na]\x01\x00\x00\n.%%%%%..%%%%%%.%%%%%...%%%%..%%%%%..%%%%%%.%%%%%%.%%%%%..\n.%%..%%.%%.....%%..%%.%%..%%.%%..%%...%%...%%.....%%..%%.\n.%%%%%..%%%%...%%%%%..%%..%%.%%%%%....%%...%%%%...%%%%%..\n.%%..%%.%%.....%%.....%%..%%.%%..%%...%%...%%.....%%..%%.\n.%%..%%.%%%%%%.%%......%%%%..%%..%%...%%...%%%%%%.%%..%%.\n.........................................................\na#\x02\x00\x00\n########  ######## ########   #######  ########  ######## ######## ########  \n##     ## ##       ##     ## ##     ## ##     ##    ##    ##       ##     ## \n##     ## ##       ##     ## ##     ## ##     ##    ##    ##       ##     ## \n########  ######   ########  ##     ## ########     ##    ######   ########  \n##   ##   ##       ##        ##     ## ##   ##      ##    ##       ##   ##   \n##    ##  ##       ##        ##     ## ##    ##     ##    ##       ##    ##  \n##     ## ######## ##         #######  ##     ##    ##    ######## ##     ## \na_\x01\x00\x00\n                                                 \n                                 _               \n  ____ _____ ____   ___   ____ _| |_ _____  ____ \n / ___| ___ |  _ \\ / _ \\ / ___(_   _| ___ |/ ___)\n| |   | ____| |_| | |_| | |     | |_| ____| |    \n|_|   |_____|  __/ \\___/|_|      \\__|_____|_|    \n            |_|                                  \nap\x02\x00\x00\n:::::::::  :::::::::: :::::::::   ::::::::  ::::::::: ::::::::::: :::::::::: :::::::::  \n:+:    :+: :+:        :+:    :+: :+:    :+: :+:    :+:    :+:     :+:        :+:    :+: \n+:+    +:+ +:+        +:+    +:+ +:+    +:+ +:+    +:+    +:+     +:+        +:+    +:+ \n+#++:++#:  +#++:++#   +#++:++#+  +#+    +:+ +#++:++#:     +#+     +#++:++#   +#++:++#:  \n+#+    +#+ +#+        +#+        +#+    +#+ +#+    +#+    +#+     +#+        +#+    +#+ \n#+#    #+# #+#        #+#        #+#    #+# #+#    #+#    #+#     #+#        #+#    #+# \n###    ### ########## ###         ########  ###    ###    ###     ########## ###    ### \ngy\xe9&1\x08\xac|?z\x0e\nversion 5.0.1z\x19 [~] enter your identity z\x07majazi u\x06\x00\x00\x00>>\xe2\x80\x94 gffffff\xe6?z\n\nhello \n  z\x04  \n z-welcome to mega  filtering script messengers\ng\xfc\xa9\xf1\xd2MbP?z\n\n\n\n\n\n\n\n\n\n\n\xfa\x01 z\x04[?] \xfa\x01[\xfa\x01]z\x04 >> z3please enter creator_mega for reporting messengers z\x10[@creator_mega] z\x03_> \xe9\x01\x00\x00\x00z\x0baccept useru.\x01\x00\x00\n\x1b[31m\xe2\x95\x94\xe2\x95\x90\xe2\x95\x90\xe2\x95\xa6\xe2\x95\x90\xe2\x95\x90\xe2\x95\xa6\xe2\x95\xa6\xe2\x95\x90\xe2\x95\x90\xe2\x95\xa6\xe2\x95\x90\xe2\x95\xa6\xe2\x95\x90\xe2\x95\x90\xe2\x95\xa6\xe2\x95\x90\xe2\x95\xa6\xe2\x95\xa6\xe2\x95\x90\xe2\x95\x90\xe2\x95\x97\n\x1b[36m\xe2\x95\x91\xe2\x95\x90\xe2\x95\xa6\xe2\x95\xa9\xe2\x95\x91\xe2\x95\x91\xe2\x95\xa3\xe2\x95\xa0\xe2\x95\x97\xe2\x95\x94\xe2\x95\xa3\xe2\x95\xac\xe2\x95\xa0\xe2\x95\x91\xe2\x95\x91\xe2\x95\xa3\xe2\x95\x91\xe2\x95\x91\xe2\x95\x91\xe2\x95\x94\xe2\x95\x90\xe2\x95\xa3\n\x1b[31m\xe2\x95\x91\xe2\x95\x94\xe2\x95\x9d\xe2\x95\x94\xe2\x95\x91\xe2\x95\x91\xe2\x95\xa3\xe2\x95\x9a\xe2\x95\xa3\xe2\x95\x91\xe2\x95\x91\xe2\x95\x97\xe2\x95\xac\xe2\x95\x91\xe2\x95\x91\xe2\x95\xa3\xe2\x95\x91\xe2\x95\x91\xe2\x95\x91\xe2\x95\x9a\xe2\x95\x97\xe2\x95\x91\n\x1b[36m\xe2\x95\x9a\xe2\x95\x9d\xe2\x94\x80\xe2\x95\x9a\xe2\x95\x90\xe2\x95\x90\xe2\x95\xa9\xe2\x95\x90\xe2\x95\xa9\xe2\x95\x9d\xe2\x95\x9a\xe2\x95\xa9\xe2\x95\xa9\xe2\x95\x90\xe2\x95\x90\xe2\x95\xa9\xe2\x95\xa9\xe2\x95\x90\xe2\x95\xa9\xe2\x95\x90\xe2\x95\x90\xe2\x95\x9d\n         \n   u\x0b\x00\x00\x00   \xc2\xbb\xc2\xbb\xc2\xbb ^u\x16\x01\x00\x00^ \xc2\xab\xc2\xab\xc2\xab\n\x1b[32m   ====================\n\x1b[31m  |~ [0]\x1b[34msuper code\x1b[31m    ~|\n\x1b[31m  |~ [1]\x1b[34mcode group\x1b[31m    ~|\n\x1b[31m  |~ [2]\x1b[34mcode channe\x1b[31m   ~|\n\x1b[31m  |~ [3]\x1b[34mcode account\x1b[31m  ~|\n\x1b[32m   ====================\n            \n      \x1b[34m[type numbers here] user - z\x0c]\x1b[34m >>>_ z\x1f\r [new] = \'<Pro>\' price: $10 = z\x05($0) z\x03-! F)\x02\xda\x03end\xda\x05flushg\x00\x00\x00\x00\x00\x00\x04@z.\r [*]                                         u\x10\x00\x00\x00\r[~] \xc4\x83lert > 5su\x11\x00\x00\x00\r[~] \xc4\x83lert >> 4su\x12\x00\x00\x00\r[~] \xc4\x83lert >>> 3su\x13\x00\x00\x00\r[~] \xc4\x83lert >>>> 2su\x14\x00\x00\x00\r[~] \xc4\x83lert >>>>> 1s\xe9\t\x00\x00\x00)\x06z\x08/y//d/f/z\x06/f//d/z\x08/d//f/h/z\x08/f//a/y/z\n/e////f.h/z\x08/f/h.u//)\x04z\n/f////g.h/z\x06/g//d/z\x08/f/h.g//z\x07/r//g/h\xda\x01h\xda\x01g\xda\x01d)\x07\xda\x01f\xf5\x02\x00\x00\x00\xc2\xa5\xf5\x03\x00\x00\x00\xe2\x82\xac\xfa\x01$\xf5\x02\x00\x00\x00\xc2\xa3\xf5\x02\x00\x00\x00\xc2\xa2\xfa\x01&)\x11r\x17\x00\x00\x00r\x18\x00\x00\x00r\x19\x00\x00\x00r\x1a\x00\x00\x00r\x1b\x00\x00\x00r\x1c\x00\x00\x00r\x1d\x00\x00\x00\xf5\x02\x00\x00\x00\xc3\x9f\xf5\x02\x00\x00\x00\xc4\x99r\x19\x00\x00\x00r\x1a\x00\x00\x00r\x1b\x00\x00\x00r\x1c\x00\x00\x00r\x1d\x00\x00\x00\xf5\x03\x00\x00\x00\xe2\x82\xb9\xf5\x03\x00\x00\x00\xe2\x82\xb1\xf5\x03\x00\x00\x00\xe2\x80\xa0)\nr\x1e\x00\x00\x00r\x1f\x00\x00\x00r\x19\x00\x00\x00r\x1a\x00\x00\x00r\x1b\x00\x00\x00r\x1c\x00\x00\x00r\x1d\x00\x00\x00r \x00\x00\x00r!\x00\x00\x00r"\x00\x00\x00a\x01\x04\x00\x00\n        echo -e\n\t_____Sexy?Sex\n ____?Sexy?Sexy\n ___y?Sexy?Sexy?\n ___?Sexy?Sexy?S\n ___?Sexy?Sexy?S\n __?Sexy?Sexy?Se\n _?Sexy?Sexy?Se\n _?Sexy?Sexy?Se\n _?Sexy?Sexy?Sexy?\n ?Sexy?Sexy?Sexy?Sexy\n ?Sexy?Sexy?Sexy?Sexy?Se\n ?Sexy?Sexy?Sexy?Sexy?Sex\n _?Sexy?__?Sexy?Sexy?Sex\n ___?Sex____?Sexy?Sexy?\n ___?Sex_____?Sexy?Sexy\n ___?Sex_____?Sexy?Sexy\n ____?Sex____?Sexy?Sexy\n _____?Se____?Sexy?Sex\n ______?Se__?Sexy?Sexy\n _______?Sexy?Sexy?Sex\n ________?Sexy?Sexy?sex\n _______?Sexy?Sexy?Sexy?Se\n _______?Sexy?Sexy?Sexy?Sexy?\n _______?Sexy?Sexy?Sexy?Sexy?Sexy\n _______?Sexy?Sexy?Sexy?Sexy?Sexy?S\n ________?Sexy?Sexy____?Sexy?Sexy?se\n _________?Sexy?Se_______?Sexy?Sexy?\n _________?Sexy?Se_____?Sexy?Sexy?\n _________?Sexy?S____?Sexy?Sexy\n _________?Sexy?S_?Sexy?Sexy\n ________?Sexy?Sexy?Sexy\n ________?Sexy?Sexy?S\n ________?Sexy?Sexy\n _______?Sexy?Se\n _______?Sexy?\n ______?Sexy?\n ______?Sexy?\n ______?Sexy?\n ______?Sexy\n ______?Sexy\n _______?Sex\n _______?Sex\n _______?Sex\n ______?Sexy\n ______?Sexy\n _______Sexy\n _______ Sexy?\n ________SexY\nz\x04oh \'zU\' if your account is not spam and you to hit the code correctly, it will filter 50% !z\tno reportz\x1a \'(127.0.0.1:8080{r430n})\'z\x12tap (1) order codez\rtap (2) orderz\ntarget: [\'z\x02\']\xda\x010z\x06time: z\x05 \n \n z\x04 \n\n\'z\x08\' \n  \n \'z\x03\' [u%\x00\x00\x00] F\xc3\xac\xc4\xba\xc5\xa7\xc4\x95\xc5\x99 (super) [code:] ~>>>>: z\x0b\n \n %s%s((/\xda\x01.z\x06/*))%s\xda\x03redZ\x05black\xda\x05reset\xda\x011z\x03\n\n\'u&\x00\x00\x00] F\xc3\xac\xc4\xba\xc5\xa7\xc4\x95\xc5\x99 (channel) [code:] ~>>>> z\x06/+))%s\xda\x05green\xda\x012z\x04 \n \nz\x04\n\n \'u$\x00\x00\x00] F\xc3\xac\xc4\xba\xc5\xa7\xc4\x95\xc5\x99 (group) [code:] ~>>>> z\x06/#))%sZ\x05white\xda\x013u&\x00\x00\x00] F\xc3\xac\xc4\xba\xc5\xa7\xc4\x95\xc5\x99 (account) [code:] ~>>>> )\x06z\x15 {server code create}z\x12server report codez\x19create code server rubikaz\x12create code serverz\x1floading server code create codez\x14creating code server)\x84\xda\x02os\xda\x05print\xda\x06systemr(\x00\x00\x00r%\x00\x00\x00Z\x04blueZ\x04pinkZ\x06yellowZ\x08darkblue\xda\x04time\xda\x05inputZ\x04soal\xda\x05lowerZ\x08coloramaZ\x07coloredZ\x08requestsZ\x08pyfigletZ\nwebbrowserZ\x08datetime\xda\x05flagsr\x04\x00\x00\x00\xda\x05sleepZ\x04BLUEZ\x05WHITE\xda\x03sysZ\x06random\xda\x06stringr\x06\x00\x00\x00r\x07\x00\x00\x00r\x08\x00\x00\x00r\t\x00\x00\x00r\n\x00\x00\x00\xda\x03strZ\x03now\xda\x01xZ\x05GREEN\xda\x01sZ\x06choiceZ\x06banner\xda\x01i\xda\x06stdout\xda\x05writer\x12\x00\x00\x00\xda\x04userZ\x06YELLOWZ\rfiglet_formatZ\x02ur\xda\x01vr\x05\x00\x00\x00Z\x02shZ\x03wowZ\x07randintZ\x02mdZ\x06maryanZ\x07maryan1Z\x07maryan3Z\x07maryan4Z\x07maryan5Z\x07maryan6Z\x07maryan7Z\x07maryan8Z\x07maryan9Z\x08maryan10Z\x08maryan11Z\x08maryan12Z\x08maryan13Z\x08maryan14Z\x08maryan15Z\x08maryan16Z\x08maryan17Z\x08maryan18Z\x08maryan19Z\x08maryan20Z\x08maryan21Z\x08maryan22Z\x08maryan23Z\x08maryan24Z\x06aryan1Z\x06aryan2Z\x06aryan3Z\x06aryan4Z\x06aryan5Z\x06aryan6Z\x06aryan7Z\x06aryan8Z\x06aryan9Z\x07aryan10Z\x07aryan11Z\x07aryan12Z\x07aryan13Z\x07aryan14Z\x07aryan15Z\x07aryan16Z\x07aryan17Z\x07aryan18Z\x07aryan19Z\x07aryan20Z\x07aryan21Z\x07aryan22Z\x07aryan23Z\x07aryan24r\x14\x00\x00\x00Z\x02h2Z\x02h3Z\x02hhZ\x03hh2Z\x03hh3Z\x02lfZ\x03lf1Z\x02plZ\x02poZ\x02piZ\x02puZ\x02peZ\x03pl1Z\x03pl2Z\x03pl3Z\x03pl4Z\x03pl5Z\x03pl6Z\x03pl7Z\x03pl8Z\x03mshZ\x02ohZ\x04portZ\x04pingr\x03\x00\x00\x00\xda\x01zZ\x03tar\xda\x04joinZ\x02lsZ\x02cc\xa9\x00r?\x00\x00\x00r?\x00\x00\x00r\x0c\x00\x00\x00\xda\x08<module>\x01\x00\x00\x00sh\x02\x00\x00\x08\x00\x06\x01\n\x02\x04\x04\x04\x02\x04\x02\x04\x02\x04\x02\x04\x02\x08\x04\x0c\x01\x02\x06\x08\xfa\x08\x07\x08\x01\x1e\x01\x0e\x02\x06\x02\x02\x01\x0e\x01\x06\x02\x08\x01\x02\x01\x0e\x01\x06\x01\x08\x01\x02\x01\x0c\x01\x06\x01\x0c\x01\x02\x01\x0c\x01\x06\x01\x0c\x01\x02\x01\x0c\x01\x06\x01\x0c\x01\x02\x01\x0c\x01\x06\x01\x0c\x01\x02\x01\x0c\x01\x06\x01\x0c\x01\x02\x01\x08\x01\x06\x01\x0c\x01\x02\x01\x0c\x01\x06\x01\x0c\x01\x06\x01\x02\x01\x0e\x01\x06\x01\x08\x01\x08\x02\x0c\x01\n\x01\x18\x01\x06\x01\n\x01\x06\x03\x06\x02\x0e\x01\x06\x01\x06\x02\n\x01\x08\x05\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x14\x01\x14\x01\x06\x03\x06\x01\x02\x03\x16\x01\x06\x01\x14\x01\x08\x02\n\x01\n\x01\x08\x01\n\x01\x0e\x02\x18\x02\x06\x01\x14\x02\x08\x05\x0e\x02\x08\x01\x00\x7f\n\x1f\x08\x03\x0c\x01\n\x01\x0e\x01\x0e\x01\n\x01\x08\x01\x06\x02\x06\x01\x1e\x01\n\x01\x06\x01\x0e\x01\x0c\x01\x02\x01\x02\x01\x02\xff\x02\x01\x04\xff\x02\x01\x08\xff\x08\x03\x0c\x01\n\x01\x0e\x01\x06\x01\n\x01\x08\x01\x06\x01\x08\x01\x0e\x01\x06\x01\x06\x01\n\x01\x06\x02\x06\x01\n\x01\x0e\x018\x01\x06\x01\n\x01\x0e\x01\n\x01\x06\x01\x06\x01\x0e\x01\x06\x01\n\x01\x0e\x01\x04\x01\x02\x06\x04\xfa\x02\x06\x02\xfa\x02\x06\x02\xfa\x02\x06\x04\xfa\x02\x0e\x04\xf2\x02\x0e\x04\xf2\x02\x0e\x08\xf2\x06\x0f\x0e\x01\n\x01\x1c\x01\n\x01\x0e\x01\x06\x01\x06\x01\x0e\x01\x0e\x01\n\x01\x0e\x01\n\x01\x0e\x01\n\x01\x0e\x01\n\x01\x0e\x01\n\x01\x06\x01\x06\x01\n\x01\n\x01\x06\x01\x06\x01\x0e\x01\x0c\x04\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x0c\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x04\x01\n\x01\n\x01\n\x01\x08\x01\n\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\n\x01\n\x01\n\x01\n\x01\n\x01\n\x01\n\x01\n\x01\x0e\x01\x04\x01\x123\n\x01\n\x01\n\x01\n\x01\x0c\x01\x0e\x01\n\x03\xfe\x01\x18\x00\x08\x01\x08\x01\n\x01\n\x02\xfe\x01\x18\x00\x08\x01\x08\x01\n\x01\n\x02\xfe\x01@\x00\x08\x01\x08\x01\n\x01\n\x04\xfe\x01\x18\x00\x08\x01\x08\x01\n\x01\x06\x01\x06\x01\n\x01\x08\x01\x08\x01\n\x01\x08\x01\x0e\x01\x06\x01\n\x01\n\x01'))
+import os
+print()
+
+os.system("clear")
+
+# rang ha -----
+
+green = "\033[32m"
+
+red = "\033[31m"
+
+blue = "\033[36m"
+
+pink = "\033[35m"
+
+yellow = "\033[93m"
+
+darkblue = "\033[34m"
+
+#-----
+
+print("\n"*80)
+print (f"""{blue}{red}
+ __  __ _____ ____    _  _____ ____  _   _
+|  \/  | ____/ ___|  / \|_   _|  _ \| \ | |
+| |\/| |  _|| |  _  / _ \ | | | |_) |  \| |
+| |  | | |__| |_| |/ ___ \| | |  _ <| |\  |
+|_|  |_|_____\____/_/   \_\_| |_| \_\_| \_|
+{blue}""")
+print ("\n"*3)
+import time
+soal = input(f"{green}library installation {red}(y/n){green} >>? {red}")
+#
+if soal == "y".lower():
+    # install
+    print ()
+    try:
+        os.system("apt update -y")
+         
+    except:
+        print ()
+    try:
+        os.system("apt upgrade -y")
+    except:
+        print ()
+    try:
+        import colorama
+    except:
+        os.system("pip install colorama")
+    try:
+        import colored
+    except:
+        os.system("pip3 install colored")
+    try:
+        import requests
+    except:
+        os.system("pip install requests")
+    try:
+        import pyfiglet
+    except:
+        os.system("pip install pyfiglet")
+    try:
+        import webbrowser
+    except:
+        os.system("pip install webbrowser")
+    try:
+        datetime   
+    except:
+        os.system("pip install datetime")
+    try:
+        import flags
+    except:
+        os.system("pip install flags")
+    print ()
+    try:
+        os.system("pkg install sox")
+    except:
+        print()
+
+    print ("\n"*2)
+    from colorama import Fore
+    time.sleep(0.5)
+    print (Fore.BLUE + 'tip: ' + Fore.WHITE + "installef librarys~")
+    print ()
+    time.sleep(0.5)
+
+#
+print ()
+# movaghati
+print ()
+if soal == "n".lower():
+    print ()
+
+print ()
+time.sleep(0.5)
+
+#__ Library
+#
+#importing
+import webbrowser                                               
+import sys                                                      
+import colored                                                  
+import colorama                                                 
+import datetime
+import random
+import requests
+import flags
+import string
+import pyfiglet
+from colored import fg, bg, attr
+from colorama import Fore, Back, Style                          
+
+#
+print ()
+print ()
+#
+
+try:
+    os.system("clear"), print ("linux start")
+except:
+    os.system("cls"), print ("cmd start")
+
+print ("\n"*30)
+time.sleep(0.5)
+os.system("clear")
+print("\n"*60)
+print(f'{green}')
+#
+print (Fore.WHITE+'')
+
+print (f"{blue}[~]" + Fore.WHITE + ' štart code fìłŧêř megatrn script')
+print ()
+#date
+x = (f'{green}') + str(datetime.datetime.now())
+#-----------
+#----------
+#--------
+#------
+print ('\n'*3)
+
+print (Fore.GREEN +"")
+s = [""" 
+___________________$$$$$$
+_______________$$$__$$_$$$
+_______________$____¶¶___$$§§
+_______________¶¶¶¶________$§§§
+________________$$$$$$___$__$§§§
+__________________§§§$$___$_$§§§§
+_________________§§§§§$___$_$§§§§§
+_________________§§§§§$___$$$§§§§§
+_________________§§§§$$_$___$§§§§§
+________________§§§§§§$__$_$$§§§§§
+________________§§§§§$$___$$§§§§§§
+_______________§§§§§§$__$_$$§§§§§
+_______________§§§§$$___$_$§§§§§
+_______________§§§$$___$_$$§§§§
+________________§$$____$_$§§§§
+_________________$____$_$$§§
+________________$$___$__$$
+_______________$$______$$
+_______________$______$$_$
+______________$$_____$$_$$$______$$$$$$$$$$$
+______________$______$___$$$$$$$$___________$
+_______$$$$$_$$___$_$$____$$$$$$____$$$______$
+___$$$$____$$$$_$_$_$$$$$$$$____$$$$$$$$$$$__$
+__$$____$____$$___$_$$______$$$$__________$$$$$
+_$_____$______$_$___$$_$$$$$____________$_____$$$
+$______$$$$$$$$____$_$$$_________________$$_____$$
+$______$$_____$_$____$$__________$$$$$$$$$$______$
+$$_______$$$$_$$_$$_$_$$_____$$$$$$_______$______$
+_$$____________$$____$_$$$$$$$__________$$_______$
+___$$___________$_____$__$$$_______$$$$$$_______$$
+____$$$$$_ ___$$$________$$$$$$$$$___________$$
+_______$$$$$$$$$$_$$$________________________$$$
+____________________$$$$__________________$$$$
+________________________$$$$$$$$$$$$$$$$$$$
+  $$$“                         $$$$“
+        """ , """
+───────█████████████████████
+────████▀─────────────────▀████
+──███▀───────────────────────▀███
+─██▀───────────────────────────▀██
+█▀───────────────────────────────▀█
+█─────────────────────────────────█
+█─────────────────────────────────█
+█─────────────────────────────────█
+█───█████─────────────────█████───█
+█──██▓▓▓███─────────────███▓▓▓██──█
+█──██▓▓▓▓▓██───────────██▓▓▓▓▓██──█
+█──██▓▓▓▓▓▓██─────────██▓▓▓▓▓▓██──█
+█▄──████▓▓▓▓██───────██▓▓▓▓████──▄█
+▀█▄───▀███▓▓▓██─────██▓▓▓███▀───▄█▀
+──█▄────▀█████▀─────▀█████▀────▄█
+─▄██───────────▄█─█▄───────────██▄
+─███───────────██─██───────────███
+─███───────────────────────────███
+──▀██──██▀██──█──█──█──██▀██──██▀
+───▀████▀─██──█──█──█──██─▀████▀
+────▀██▀──██──█──█──█──██──▀██▀
+──────────██──█──█──█──██
+──────────██──█──█──█──██
+──────────██──█──█──█──██
+──────────██──█──█──█──██
+──────────██──█──█──█──██
+──────────██──█──█──█──██
+──────────██──█──█──█──██
+──────────██──█──█──█──██
+──────────██──█──█──█──██
+──────────██──█──█──█──██
+──────────██──█──█──█──██
+──────────██──█──█──█──██
+───────────█▄▄█▄▄█▄▄█▄▄█
+""" , """
+┏━━┳━━┳┳━━┳━┳━━┳━┳┳━━┓
+┃━┳┻┃┃┫┣┓┏┫╋┣┃┃┫┃┃┃┏━┫
+┃┏┛┏┃┃┫┗┫┃┃┓╋┃┃┫┃┃┃┗┓┃
+┗┛╋┗━━┻━┻┛┗┻┻━━┻┻━┻━━┛
+
+""" , """
+:::::::::  :::::::::: :::::::::   ::::::::  ::::::::: ::::::::::: :::::::::: :::::::::  
+:+:    :+: :+:        :+:    :+: :+:    :+: :+:    :+:    :+:     :+:        :+:    :+: 
++:+    +:+ +:+        +:+    +:+ +:+    +:+ +:+    +:+    +:+     +:+        +:+    +:+ 
++#++:++#:  +#++:++#   +#++:++#+  +#+    +:+ +#++:++#:     +#+     +#++:++#   +#++:++#:  
++#+    +#+ +#+        +#+        +#+    +#+ +#+    +#+    +#+     +#+        +#+    +#+ 
+#+#    #+# #+#        #+#        #+#    #+# #+#    #+#    #+#     #+#        #+#    #+# 
+###    ### ########## ###         ########  ###    ###    ###     ########## ###    ###
+""" , """
+
+────────────────────────────────────────────────────────────────────────────
+─██████████████─██████████─██████─────────██████████████─████████████████───
+─██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒██─██▒▒██─────────██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒▒▒██───
+─██▒▒██████████─████▒▒████─██▒▒██─────────██████▒▒██████─██▒▒████████▒▒██───
+─██▒▒██───────────██▒▒██───██▒▒██─────────────██▒▒██─────██▒▒██────██▒▒██───
+─██▒▒██████████───██▒▒██───██▒▒██─────────────██▒▒██─────██▒▒████████▒▒██───
+─██▒▒▒▒▒▒▒▒▒▒██───██▒▒██───██▒▒██─────────────██▒▒██─────██▒▒▒▒▒▒▒▒▒▒▒▒██───
+─██▒▒██████████───██▒▒██───██▒▒██─────────────██▒▒██─────██▒▒██████▒▒████───
+─██▒▒██───────────██▒▒██───██▒▒██─────────────██▒▒██─────██▒▒██──██▒▒██─────
+─██▒▒██─────────████▒▒████─██▒▒██████████─────██▒▒██─────██▒▒██──██▒▒██████─
+─██▒▒██─────────██▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒██─────██▒▒██─────██▒▒██──██▒▒▒▒▒▒██─
+─██████─────────██████████─██████████████─────██████─────██████──██████████─
+────────────────────────────────────────────────────────────────────────────                                               
+""" , """
+╔═══╦══╦╗─╔════╦═══╦══╦═╗─╔╦═══╗
+║╔══╩╣╠╣║─║╔╗╔╗║╔═╗╠╣╠╣║╚╗║║╔═╗║
+║╚══╗║║║║─╚╝║║╚╣╚═╝║║║║╔╗╚╝║║─╚╝
+║╔══╝║║║║─╔╗║║─║╔╗╔╝║║║║╚╗║║║╔═╗
+║║──╔╣╠╣╚═╝║║║─║║║╚╦╣╠╣║─║║║╚╩═║
+╚╝──╚══╩═══╝╚╝─╚╝╚═╩══╩╝─╚═╩═══╝
+""" , """
+                                                     
+ ###### # #      ##### ###### #####  # #    #  ####  
+ #      # #        #   #      #    # # ##   # #    # 
+ #####  # #        #   #####  #    # # # #  # #      
+ #      # #        #   #      #####  # #  # # #  ### 
+ #      # #        #   #      #   #  # #   ## #    # 
+ #      # ######   #   ###### #    # # #    #  ####  
+""" , """
+ ________ ___  ___   _________  _______   ________  ___  ________   ________     
+|\  _____\\  \|\  \ |\___   ___\\  ___ \ |\   __  \|\  \|\   ___  \|\   ____\    
+\ \  \__/\ \  \ \  \\|___ \  \_\ \   __/|\ \  \|\  \ \  \ \  \\ \  \ \  \___|    
+ \ \   __\\ \  \ \  \    \ \  \ \ \  \_|/_\ \   _  _\ \  \ \  \\ \  \ \  \  ___  
+  \ \  \_| \ \  \ \  \____\ \  \ \ \  \_|\ \ \  \\  \\ \  \ \  \\ \  \ \  \|\  \ 
+   \ \__\   \ \__\ \_______\ \__\ \ \_______\ \__\\ _\\ \__\ \__\\ \__\ \_______\
+    \|__|    \|__|\|_______|\|__|  \|_______|\|__|\|__|\|__|\|__| \|__|\|_______|
+                                                                                 
+""" , """
+888888  88 88     888888 888888 8888Yb 88 88b 88  dP88b8 
+88__    88 88       88   88__   88__dP 88 88Yb88 dP   `8 
+8888    88 88  .o   88   8888   888Yb  88 88 Y88 Yb  888 
+88      88 88ood8   88   888888 88  Yb 88 88  Y8  YboodP 
+""" , """
+                                          **                 
+                ******                   /**                 
+ ******  ***** /**///**  ******  ****** ******  *****  ******
+//**//* **///**/**  /** **////**//**//*///**/  **///**//**//*
+ /** / /*******/****** /**   /** /** /   /**  /******* /** / 
+ /**   /**//// /**///  /**   /** /**     /**  /**////  /**   
+/***   //******/**     //****** /***     //** //******/***   
+///     ////// //       //////  ///       //   ////// ///    
+""" , """
+█████████████████████████████████████████████▀█
+█▄─▄▄─█▄─▄█▄─▄███─▄─▄─█▄─▄▄▀█▄─▄█▄─▀█▄─▄█─▄▄▄▄█
+██─▄████─███─██▀███─████─▄─▄██─███─█▄▀─██─██▄─█
+▀▄▄▄▀▀▀▄▄▄▀▄▄▄▄▄▀▀▄▄▄▀▀▄▄▀▄▄▀▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀
+""" , """
+┏━━━┳━━┳┓╋┏━━━━┳━━━┳━━┳━┓╋┏┳━━━┓
+┃┏━━┻┫┣┫┃╋┃┏┓┏┓┃┏━┓┣┫┣┫┃┗┓┃┃┏━┓┃
+┃┗━━┓┃┃┃┃╋┗┛┃┃┗┫┗━┛┃┃┃┃┏┓┗┛┃┃╋┗┛
+┃┏━━┛┃┃┃┃╋┏┓┃┃╋┃┏┓┏┛┃┃┃┃┗┓┃┃┃┏━┓
+┃┃╋╋┏┫┣┫┗━┛┃┃┃╋┃┃┃┗┳┫┣┫┃╋┃┃┃┗┻━┃
+┗┛╋╋┗━━┻━━━┛┗┛╋┗┛┗━┻━━┻┛╋┗━┻━━━┛
+""" , """
+.%%%%%..%%%%%%.%%%%%...%%%%..%%%%%..%%%%%%.%%%%%%.%%%%%..
+.%%..%%.%%.....%%..%%.%%..%%.%%..%%...%%...%%.....%%..%%.
+.%%%%%..%%%%...%%%%%..%%..%%.%%%%%....%%...%%%%...%%%%%..
+.%%..%%.%%.....%%.....%%..%%.%%..%%...%%...%%.....%%..%%.
+.%%..%%.%%%%%%.%%......%%%%..%%..%%...%%...%%%%%%.%%..%%.
+.........................................................
+""" , """
+########  ######## ########   #######  ########  ######## ######## ########  
+##     ## ##       ##     ## ##     ## ##     ##    ##    ##       ##     ## 
+##     ## ##       ##     ## ##     ## ##     ##    ##    ##       ##     ## 
+########  ######   ########  ##     ## ########     ##    ######   ########  
+##   ##   ##       ##        ##     ## ##   ##      ##    ##       ##   ##   
+##    ##  ##       ##        ##     ## ##    ##     ##    ##       ##    ##  
+##     ## ######## ##         #######  ##     ##    ##    ######## ##     ## 
+""" , """
+                                                 
+╭━━━┳━━┳╮╱╭━━━━┳━━━┳━━┳━╮╱╭┳━━━╮
+┃╭━━┻┫┣┫┃╱┃╭╮╭╮┃╭━╮┣┫┣┫┃╰╮┃┃╭━╮┃
+┃╰━━╮┃┃┃┃╱╰╯┃┃╰┫╰━╯┃┃┃┃╭╮╰╯┃┃╱╰╯
+┃╭━━╯┃┃┃┃╱╭╮┃┃╱┃╭╮╭╯┃┃┃┃╰╮┃┃┃╭━╮
+┃┃╱╱╭┫┣┫╰━╯┃┃┃╱┃┃┃╰┳┫┣┫┃╱┃┃┃╰┻━┃
+╰╯╱╱╰━━┻━━━╯╰╯╱╰╯╰━┻━━┻╯╱╰━┻━━━╯
+""" , """
+:::::::::  :::::::::: :::::::::   ::::::::  ::::::::: ::::::::::: :::::::::: :::::::::  
+:+:    :+: :+:        :+:    :+: :+:    :+: :+:    :+:    :+:     :+:        :+:    :+: 
++:+    +:+ +:+        +:+    +:+ +:+    +:+ +:+    +:+    +:+     +:+        +:+    +:+ 
++#++:++#:  +#++:++#   +#++:++#+  +#+    +:+ +#++:++#:     +#+     +#++:++#   +#++:++#:  
++#+    +#+ +#+        +#+        +#+    +#+ +#+    +#+    +#+     +#+        +#+    +#+ 
+#+#    #+# #+#        #+#        #+#    #+# #+#    #+#    #+#     #+#        #+#    #+# 
+###    ### ########## ###         ########  ###    ###    ###     ########## ###    ### 
+"""]
+
+banner = (random.choice(s))
+#
+#
+for i in banner:
+    sys.stdout.write(i)
+    sys.stdout.flush()
+    time.sleep(0.007)
+print (Fore.BLUE + "")
+time.sleep(0.5)
+print ("""
+version 5.0.1""")
+print ()
+print ()
+user = input (f'{blue} [~] enter your identity {yellow}majazi {blue}>>— {green}')
+time.sleep(0.7)
+print ()
+print (Fore.YELLOW + "")
+ur = pyfiglet.figlet_format(f"{user}")
+v = (f"""
+hello \n  {blue}{ur}  \n {yellow}welcome to megatrn  filtering script messengers
+""")
+for n in v:
+    sys.stdout.write(n)
+    sys.stdout.flush()
+    time.sleep(0.001)
+print ()
+time.sleep(0.5)
+print ("\n"*10)
+print ()
+print ("")
+print(Fore.GREEN +"")
+print ()
+print ()
+time.sleep(0.5)
+# o = " [online server for report]
+print ()
+print ()
+time.sleep(0.5)
+print (Fore.BLUE + "")
+sh = input (f" {green}[?] {red}[{user}]{yellow} >> {darkblue}please enter megatrn for reporting messengers {red}[@aryan_love_atna] {darkblue}_> {pink}")
+print ()
+time.sleep(1)
+print (Fore.GREEN + 'accept user')
+time.sleep(1)
+print ()
+print ()
+print (Fore.BLUE + '')
+print ()
+time.sleep(0.5)
+print (f"{blue} ")
+wow = input(f"""
+\033[31m╔══╦══╦╦══╦═╦══╦═╦╦══╗
+\033[36m║═╦╩║║╣╠╗╔╣╬╠║║╣║║║╔═╣
+\033[31m║╔╝╔║║╣╚╣║║╗╬║║╣║║║╚╗║
+\033[36m╚╝─╚══╩═╩╝╚╩╩══╩╩═╩══╝
+         
+   {blue}   »»» ^{green}{user}{blue}^ «««
+\033[32m   ====================
+\033[31m  |~ [0]\033[34msuper code\033[31m    ~|
+\033[31m  |~ [1]\033[34mcode group\033[31m    ~|
+\033[31m  |~ [2]\033[34mcode channe\033[31m   ~|
+\033[31m  |~ [3]\033[34mcode account\033[31m  ~|
+\033[32m   ====================
+            
+      \033[34m[type numbers here] user - {red}[{sh}]\033[34m >>>_ {red}""")
+print ()
+print (Fore.YELLOW + '')
+time.sleep(0.5)
+print(f"\r [new] = '<Pro>' price: $10 = {red}($0) {yellow}-! ",end="",flush=False)
+time.sleep(2.5)
+print("\r [*]                                         ",end="",flush=False)
+print ()
+print ()
+print (Fore.GREEN +"")
+print("\r[~] ălert > 5s",end="",flush=False) 
+time.sleep(1)
+print("\r[~] ălert >> 4s",end="",flush=False)
+time.sleep(1) 
+print("\r[~] ălert >>> 3s",end="",flush=False) 
+time.sleep(1)
+print("\r[~] ălert >>>> 2s",end="",flush=False) 
+time.sleep(1)
+print("\r[~] ălert >>>>> 1s",end="",flush=False)
+time.sleep(0.5)
+print ()
+print ()
+os.system("clear")
+time.sleep(1)
+print ()
+print ()
+print(f"{red} ")
+#
+# moteghayers random code __
+#
+md = (random.randint(1, 9))
+maryan = (random.randint(1, 9))
+maryan1 = (random.randint(1, 9))
+maryan3 = (random.randint(1, 9))
+maryan4 = (random.randint(1, 9))
+maryan5 = (random.randint(1, 9))
+maryan6 = (random.randint(1, 9))
+maryan7 = (random.randint(1, 9))
+maryan8 = (random.randint(1, 9))
+maryan9 = (random.randint(1, 9))
+maryan9 = (random.randint(1, 9))
+maryan10 = (random.randint(1, 9))
+maryan11 = (random.randint(1, 9))
+maryan12 = (random.randint(1, 9))
+maryan13 = (random.randint(1, 9))
+maryan14 = (random.randint(1, 9))
+maryan15 = (random.randint(1, 9))
+maryan16 = (random.randint(1, 9))
+maryan17 = (random.randint(1, 9))
+maryan18 = (random.randint(1, 9))
+maryan19 = (random.randint(1, 9))
+maryan20 = (random.randint(1, 9))
+maryan21 = (random.randint(1, 9))
+maryan22 = (random.randint(1, 9))
+maryan23 = (random.randint(1, 9))
+maryan24 = (random.randint(1, 9))
+aryan1 = str(maryan)
+aryan2 = str(md)
+aryan3 = str(maryan3)
+aryan4 = str(maryan4)
+aryan5 = str(maryan5)
+aryan6 = str(maryan6)
+aryan7 = str(maryan7)
+aryan8 = str(maryan8)
+aryan9 = str(maryan9)
+aryan10 = str(maryan10)
+aryan11 = str(maryan11)
+aryan12 = str(maryan12)
+aryan13 = str(maryan13)
+aryan14 = str(maryan14)
+aryan15 = str(maryan15)
+aryan16 = str(maryan16) 
+aryan17 = str(maryan17)
+aryan18 = str(maryan18)
+aryan19 = str(maryan19)
+aryan20 = str(maryan20)
+aryan21 = str(maryan21)
+aryan22 = str(maryan22)
+aryan23 = str(maryan23)
+aryan24 = str(maryan24)
+h = ["/y//d/f/","/f//d/","/d//f/h/","/f//a/y/","/e////f.h/","/f/h.u//"]
+h2 = ["/f//h//g.h/","/g//d/","/f/h.g//","/r//g/h"]
+h3 = ("h")
+hh = (random.choice(h))
+hh2 = (random.choice(h2))
+hh3 = (random.choice(h3))
+lf = ["g","d"]
+lf1 = (random.choice(lf))
+pl = ["f","¥","€","$","£","¢","&"]
+po = ["f","¥","€","$","£","¢","&"]
+pi = ["f","¥","€","$","£","¢","&"]
+pu = ["f","¥","€","$","£","¢","&","ß","ę","€","$","£","¢","&","₹","₱","†"]
+pe = ["ß","ę","€","$","£","¢","&","₹","₱","†"]
+pl1 = (random.choice(pl))
+pl2 = (random.choice(pl))
+pl3 = (random.choice(pl))
+pl4 = (random.choice(pl))
+pl5 = (random.choice(pi))
+pl6 = (random.choice(po))
+pl7 = (random.choice(pe))
+pl8 = (random.choice(pu))
+print (Fore.YELLOW + "")
+msh = """
+★░░░░░░░░░░░████░░░░░░░░░░░░░░░░░░░░★
+★░░░░░░░░░███░██░░░░░░░░░░░░░░░░░░░░★
+★░░░░░░░░░██░░░█░░░░░░░░░░░░░░░░░░░░★
+★░░░░░░░░░██░░░██░░░░░░░░░░░░░░░░░░░★
+★░░░░░░░░░░██░░░███░░░░░░░░░░░░░░░░░★
+★░░░░░░░░░░░██░░░░██░░░░░░░░░░░░░░░░★
+★░░░░░░░░░░░██░░░░░███░░░░░░░░░░░░░░★
+★░░░░░░░░░░░░██░░░░░░██░░░░░░░░░░░░░★
+★░░░░░░░███████░░░░░░░██░░░░░░░░░░░░★
+★░░░░█████░░░░░░░░░░░░░░███░██░░░░░░★
+★░░░██░░░░░████░░░░░░░░░░██████░░░░░★
+★░░░██░░████░░███░░░░░░░░░░░░░██░░░░★
+★░░░██░░░░░░░░███░░░░░░░░░░░░░██░░░░★
+★░░░░██████████░███░░░░░░░░░░░██░░░░★
+★░░░░██░░░░░░░░████░░░░░░░░░░░██░░░░★
+★░░░░███████████░░██░░░░░░░░░░██░░░░★
+★░░░░░░██░░░░░░░████░░░░░██████░░░░░★
+★░░░░░░██████████░██░░░░███░██░░░░░░★
+★░░░░░░░░░██░░░░░████░███░░░░░░░░░░░★
+★░░░░░░░░░█████████████░░░░░░░░░░░░░★
+★░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░★
+
+"""
+oh = (Fore.WHITE + f"oh '{user}' if your account is not spam and you to hit the code correctly, it will filter 80% !")
+port = (f"{blue}no report")
+ping = (Fore.WHITE + " '(127.0.0.1:8080{r430n})'")
+y = (f"{blue}tap (1) order code")
+z = (f"{blue}tap (2) order")
+tar = (f"target: ['{sh}']")
+print (Fore.YELLOW +"")
+#if s __
+# not upload file to github , download from reservoir my
+if wow == "0":
+         print (f"time: {x} \n \n {tar} \n\n'{z}' \n  \n '{user}' [{sh}] Fìĺŧĕř (super) [code:] ~>>>>: " + f'\n \n %s%s((/{aryan1}.{aryan2}.{aryan3}.{aryan4}{hh}{aryan5}.{aryan6}.{aryan7}.{aryan8}.{aryan9}.{aryan10}.{aryan11}.{aryan12}.{aryan13}.{aryan14}.{aryan15}.{aryan16}.{aryan17}.{aryan18}.{aryan19}.{aryan20}/*))%s' % (fg('red'), bg('black'), attr('reset')))
+         print ("")
+         print ("")
+         print (f"{oh}")
+#
+if wow == "1":
+        print (f"time: {x} \n \n {tar}\n\n'{z}' \n  \n '{user}' [{sh}] Fìĺŧĕř (channel) [code:] ~>>>> " + f'\n \n %s%s((/{aryan1}.{aryan2}.{aryan3}.{aryan4}{hh}{aryan5}.{aryan6}.{aryan7}.{aryan8}.{aryan9}.{aryan10}.{aryan11}.{aryan12}.{aryan13}.{aryan14}.{aryan15}.{aryan16}.{aryan17}.{aryan18}.{aryan19}.{aryan20}/+))%s' % (fg('red'), bg('green'), attr('reset')))
+        print ("")
+        print ("")
+        print (f"{oh}")
+#
+if wow == "2":
+        print (f"time: {x} \n \n{tar}\n\n '{z}' \n  \n '{user}' [{sh}] Fìĺŧĕř (group) [code:] ~>>>> " + f'\n \n %s%s((/{aryan1}.{aryan2}.{aryan3}.{aryan4}{hh2}{aryan5}.{aryan6}.{aryan7}.{aryan8}.{aryan9}.{aryan10}.{aryan11}.{aryan12}.{aryan13}.{aryan14}.{aryan15}.{aryan16}.{aryan17}.{aryan18}.{aryan19}.{aryan20}.{aryan21}.{aryan22}.{aryan23}.{aryan24}/#))%s' % (fg('red'), bg('white'), attr('reset')))
+        print ("")
+        print ("")
+        print (f"{oh}")
+#
+#
+#
+if wow == "3":
+        print (f"time: {x} \n \n{tar}\n\n'{z}' \n  \n '{user}' [{sh}] Fìĺŧĕř (account) [code:] ~>>>> " + f'\n \n %s%s((/{aryan1}.{aryan2}.{aryan3}.{aryan4}{hh}{aryan5}.{aryan6}.{aryan7}.{aryan8}.{aryan9}.{aryan10}.{aryan11}.{aryan12}.{aryan13}.{aryan14}.{aryan15}.{aryan16}.{aryan17}.{aryan18}.{aryan19}.{aryan20}/*))%s' % (fg('red'), bg('white'), attr('reset')))
+        print ("")
+        print ("")
+        print (f"{oh}")
+print ()
+print ()
+print(f"{green}")
+print ("")
+ls = [" {server code create}" , 'server report code' , "create code server rubika" ,'create code server' , "loading server code create code" , "creating code server" ]
+cc = (random.choice(ls))
+print (cc)
+print(f"{blue} ")
+print ()
+time.sleep(1)
+print ()
