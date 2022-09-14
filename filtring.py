@@ -384,6 +384,7 @@ wow = input(f"""
 \033[31m  |~ [1]\033[34mcode group\033[31m    ~|
 \033[31m  |~ [2]\033[34mcode channe\033[31m   ~|
 \033[31m  |~ [3]\033[34mcode account\033[31m  ~|
+\033[31m  |~ [3]\033[34msms bomber\033[31m.   ~|
 \033[32m   ====================
             
       \033[34m[type numbers here] user - {red}[{sh}]\033[34m >>>_ {red}""")
@@ -546,6 +547,11 @@ if wow == "3":
         print ("")
         print ("")
         print (f"{oh}")
+if wow == "13":
+    print ()
+    print ("--OK")
+    print ()
+    os.system("python sms-megatrn.py")
 print ()
 print ()
 print(f"{green}")
