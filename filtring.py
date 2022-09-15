@@ -384,7 +384,7 @@ wow = input(f"""
 \033[31m  |~ [1]\033[34mcode group\033[31m    ~|
 \033[31m  |~ [2]\033[34mcode channe\033[31m   ~|
 \033[31m  |~ [3]\033[34mcode account\033[31m  ~|
-\033[31m  |~ [3]\033[34msms bomber\033[31m.   ~|
+\033[31m  |~ [4]\033[34msms bomber\033[31m    ~|
 \033[32m   ====================
             
       \033[34m[type numbers here] user - {red}[{sh}]\033[34m >>>_ {red}""")
