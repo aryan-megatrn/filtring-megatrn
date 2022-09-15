@@ -547,10 +547,7 @@ if wow == "3":
         print ("")
         print ("")
         print (f"{oh}")
-if wow == "13":
-    print ()
-    print ("--OK")
-    print ()
+if wow == "4"
     os.system("python sms-megatrn.py")
 print ()
 print ()
