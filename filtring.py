@@ -1,4 +1,4 @@
-import os
+jimport os
 print()
 
 os.system("clear")
@@ -547,7 +547,7 @@ if wow == "3":
         print ("")
         print ("")
         print (f"{oh}")
-if wow == "4"
+if wow == "4": 
     os.system("python sms-megatrn.py")
 print ()
 print ()
