@@ -1,4 +1,4 @@
-jimport os
+import os
 print()
 
 os.system("clear")
